@@ -2,3 +2,4 @@ This project was created to focus on working with the DOM, events, state, local 
 It is a vanilla javaScript shopping-list app which is built using HTML,CSS, javaScript.
 It can perform tasks like addding, removing , updating an item to the list, alao filters the items. 
 
+<img src="images/screen.png" width="400">
